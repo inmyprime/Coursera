@@ -1,0 +1,24 @@
+Change your University password
+
+Dear Hong Xu,
+
+Your password is about to expire.
+
+The University's password policy requires that passwords are changed at least once every year.
+
+Please change your password within the next 2 weeks.
+
+How to change your password
+
+You can change your password by going to the University Homepage, clicking on either the Student or Staff menu at the top page and selecting "Password change".
+
+Please ensure that you also change any passwords on your mobile devices (i.e. email, Wi-Fi, VPN, etc.). It will be necessary to switch these devices off and on again to reset to the new password.
+
+It is advised that you restart your computer immediately after the change to ensure your password changes work across all your services.
+
+If you experience any problems accessing services please contact one of the teams below for assistance:
+Students, applicants and alumni should contact our Student Support Team
+Staff and contractors should contact the Staff Service Centre
+It is advised that passwords are always changed before taking a long term absence to prevent them expiring while away.
+
+NOTE: The University will never ask for your University of Auckland password, nor direct you to a password changing facility through asking you to click on a link. These are hallmarks of phishing emails, which should be ignored and deleted.
